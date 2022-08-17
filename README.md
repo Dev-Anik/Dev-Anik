@@ -1,4 +1,4 @@
-- 👋 Hi, I’m auni
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning asp .net (MVC)
+- 👋 Hi, I’m auni. A Software Engineer from Dhaka, Bangladesh.
+- 👀 Interested in Problem Solving.
+- 🌱 Currently learning asp .net (MVC)
 
